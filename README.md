@@ -1,4 +1,4 @@
-# AzureSQLdatababe
+# AzureSQLdatabase
 
 SQL database based on the AdventureWorksLT sample database
 
