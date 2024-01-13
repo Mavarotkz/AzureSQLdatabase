@@ -10,3 +10,12 @@ Connectivity method	Public endpoint
 Allow Azure services and resources to access this server	Yes
 
 Add current client IP address	No
+
+
+
+Allow Azure services and resources to access this server
+Yes
+
+
+Add current client IP address
+Yes
