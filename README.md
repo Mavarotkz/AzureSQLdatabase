@@ -6,5 +6,7 @@ Authentication method	Use SQL authentication
 
 Setting	Value
 Connectivity method	Public endpoint
+
 Allow Azure services and resources to access this server	Yes
+
 Add current client IP address	No
